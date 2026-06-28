@@ -1,0 +1,3 @@
+port: 8753
+debug: true
+log_level: info
